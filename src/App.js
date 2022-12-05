@@ -1,7 +1,7 @@
-import "./index.css";
-import About from "./components/About";
-import Todo from "./components/Todo";
-import { Route, Routes } from "react-router-dom";
+import './index.css';
+import { Route, Routes } from 'react-router-dom';
+import About from './components/About';
+import Todo from './components/Todo';
 
 function App() {
   return (
